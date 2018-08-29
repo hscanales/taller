@@ -45,6 +45,15 @@ body {
 .search {
     text-align: right;
 }
+.search input{
+    border: 1px solid grey;
+    padding: 0.5em;
+    background: white
+}
+
+.search input[type="button"]:hover{
+    background: grey;
+}
 
 .story .comment {
     font-family: 'M PLUS Rounded 1c', sans-serif;
