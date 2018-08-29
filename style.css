@@ -1,0 +1,44 @@
+body {
+    background: #767de4;
+}
+
+.main {
+    position: fixed center;
+    max-width: 60em;
+    min-width: 30em;
+    padding: 2em;
+    margin-left: 15em;
+    margin: auto;
+    
+}
+
+.blog {
+    border: 13px solid black;
+    padding: 3em;
+    background: #F2F2F2;
+}
+
+.story span{
+    color: #AC3655;
+    font-weight: 900;
+
+}
+.story p{
+    font-weight: 600;
+    width: 40em;
+}
+
+.story td{
+    padding-right: 3em;
+}
+
+.story i{
+    font-size: 3em;
+}
+.search {
+    text-align: right;
+}
+
+.comment p{
+    font-weight: 100;
+}
